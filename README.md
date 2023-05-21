@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The File Upload Validator is a basic PHP application that validates files upon uploading. The project is created using core web technologies such as HTML, CSS, and PHP. It is to test and ensure that uploaded files meet certain criteria before they are accepted. This can help to prevent the upload of malicious files or files that are too large to handle. The application uses regular expressions and built-in PHP functions to validate the file type and size.
+The File Upload Validator is a basic PHP application that validates files upon uploading. The project is created using core web technologies such as HTML, CSS, and PHP. It is to test and ensure that uploaded files meet certain criteria before they are accepted. This can help to prevent the upload of malicious files or files that are too large to handle in real world projects. The application uses regular expressions and built-in PHP functions to validate the file type and size.
 
 You can view the project website [here](http://file-uploader.mido-kun.repl.co/).
 
